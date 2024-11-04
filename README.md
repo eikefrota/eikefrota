@@ -1,11 +1,11 @@
 # Olá! Eu sou o Eike Frota 👋🏽
 
 ## 👨🏽‍💻 Sobre mim:
-💻 Desenvolvedor de Software<br/>
+###💻 Desenvolvedor de Software<br/>
 
 Tenho um forte interesse por tecnologias modernas e por boas práticas de desenvolvimento. Cada projeto é uma oportunidade de aprendizado e evolução, e me dedico ao máximo para melhorar minhas habilidades e adquirir conhecimento.
 
-📖 Estudante de Ciência da Computação<br/>
+###📖 Estudante de Ciência da Computação<br/>
 
 Para desenvolver uma base sólida em tecnologia e programação, estudo áreas essenciais como algoritmos, estruturas de dados e desenvolvimento de software. Meu objetivo é me tornar um profissional completo, capaz de resolver problemas complexos com soluções eficientes. Estou sempre em busca de oportunidade que me permitam aplicar o que aprendo na prática.
 
