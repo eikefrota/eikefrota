@@ -1,4 +1,4 @@
-# Olá! Eu sou o Eike Frota 👋🏽
+# Olá! Eu sou o Eike👋🏽
 
 ## 👨🏽‍💻 Sobre mim:
 ### 💻 Desenvolvedor de Software<br/>
