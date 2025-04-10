@@ -1,6 +1,6 @@
-# 👋🏽 Olá, eu sou o Eike! — Desenvolvedor de Software
+# 👋🏽 Olá, eu sou o Eike!
 
-## 👨🏽‍💻 Sobre mim
+## 👨🏽‍💻 Desenvolvedor de Software
 
 Desenvolvo software com foco em aprender na prática e construir soluções que funcionem de verdade. Gosto de estar envolvido em projetos que me desafiam e me forçam a evoluir tanto tecnicamente quanto pessoalmente.
 
