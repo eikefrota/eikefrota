@@ -47,8 +47,3 @@ Se quiser trocar uma ideia, colaborar em projetos ou qualquer outra coisa é só
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eikefrota)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eikefrotaa@hotmail.com)
 
----
-
-## 📈 Visitantes do perfil
-
-[![](https://visitcount.itsvg.in/api?id=eikefrota&icon=0&color=12)](https://visitcount.itsvg.in)
