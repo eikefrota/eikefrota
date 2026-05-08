@@ -1,78 +1,121 @@
-# 👋🏽 Olá, eu sou o Eike!
+# 👋🏽 Olá, eu sou o Eike Frota
 
-## 👨🏽‍💻 Desenvolvedor de Software
+## 💻 Desenvolvedor Full Stack
 
-Sou um desenvolvedor em formação, focado em criar soluções eficientes e escaláveis. Tenho facilidade para aprender novas tecnologias e me adaptar rapidamente a diferentes desafios. Atualmente, curso **Ciência da Computação** e **Técnico em Desenvolvimento de Sistemas**, conciliando teoria e prática para fortalecer minha base técnica. Busco oportunidades para aplicar meus conhecimentos em projetos reais, colaborar em equipe e entregar resultados de alto impacto.
+Desenvolvedor Full Stack com experiência na criação, manutenção e evolução de sistemas, sites e aplicações em ambiente de produção.
 
----
+Atualmente atuo na construção de interfaces modernas, APIs escaláveis e soluções performáticas utilizando tecnologias como **React.js, Next.js, Node.js, NestJS e Django**.
 
-## 🛠️ Tecnologias e Ferramentas
+Tenho experiência tanto no desenvolvimento **front-end** quanto **back-end**, trabalhando com integração de APIs, bancos de dados, otimização de performance, correção de bugs e implementação de novas funcionalidades.
 
-**Front-end**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Back-end**  
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Banco de Dados**  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Ferramentas & Metodologias**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-%23F2D02D.svg?style=for-the-badge&logo=kanban&logoColor=black)
+Sou graduando em **Ciência da Computação** pela Universidade de Fortaleza (Unifor) e formado como **Técnico em Desenvolvimento de Sistemas** pelo Senac Ceará, unindo uma base teórica sólida com forte experiência prática em projetos reais.
 
 ---
 
-## 💼 Experiência
+# 🚀 Tecnologias & Ferramentas
 
-**Desenvolvedor de Software Freelancer** (2024 – Presente)  
-- Desenvolvimento de sistemas web responsivos com **HTML, CSS, JavaScript e ReactJS**.
-- Criação de aplicativos mobile com **React Native**.
-- Implementação e testes de **APIs com Node.js e Express**, integradas a bancos **PostgreSQL**.
-- Documentação e validação de APIs utilizando **Swagger**.
+## 🎨 Front-end
 
-**Representante de Curso - SENAC CEARÁ** (2024)  
-- Representante do curso técnico de Desenvolvimento de Sistemas na **Feira do Conhecimento 2024**.
-- Apresentação de projetos para o público, demonstrando conhecimentos e atraindo novos alunos.
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Eike GitHub Stats](https://github-readme-stats.vercel.app/api?username=eikefrota&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eikefrota&theme=dark&hide_border=false&layout=compact)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ---
 
-## 🌐 Idiomas
+## ⚙️ Back-end
 
-- **Português**: Nativo
-- **Inglês**: Intermediário
-- **Espanhol**: Básico
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
 ---
 
-## 📫 Contato
+## 🗄️ Banco de Dados
 
-Se quiser trocar uma ideia, colaborar em projetos ou qualquer outra coisa é só entrar em contato:
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eikefrota)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eikefrotaa@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://eikefrotaportfolio.netlify.app)
+---
+
+## 🛠️ Ferramentas & Outros
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge\&logo=expo\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+# 💼 Experiência Profissional
+
+## 🚀 Estagiário em Desenvolvimento Full Stack — Devari Tecnologia
+
+📅 2025 - Presente
+
+Atuação no desenvolvimento, manutenção e evolução de sistemas, sites e aplicações em ambiente de produção.
+
+### Principais atividades:
+
+* Desenvolvimento de interfaces modernas e responsivas utilizando **React.js** e **Next.js**
+* Desenvolvimento back-end com **Node.js**, **NestJS** e **Django**
+* Criação e integração de APIs REST
+* Integração com bancos de dados relacionais
+* Correção de bugs e manutenção de sistemas
+* Otimização de performance e melhorias contínuas
+* Implementação de novas funcionalidades em sistemas reais
+
+---
+
+# 🎓 Formação Acadêmica
+
+## 🎓 Universidade de Fortaleza — UNIFOR
+
+**Bacharelado em Ciência da Computação** - 
+📅 Previsão de conclusão: 2028
+
+---
+
+## 💻 Senac Ceará
+
+**Técnico em Desenvolvimento de Sistemas** - 
+📅 Concluído em 2025
+
+---
+
+# 🏆 Eventos & Experiências
+
+* 🚀 Participante do programa **Geração Tech 2.0**
+* 🧠 Representante do Senac Ceará na **Feira do Conhecimento 2024**
+* 💡 Representante do Senac Ceará no **Siará Tech Summit 2025**
+
+---
+
+# 🌎 Idiomas
+
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Intermediário
+* 🇪🇸 Espanhol — Básico
+
+---
+
+# 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/eikefrota)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/eikefrota)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://eikefrota.vercel.app)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eikefrotaa@hotmail.com)
+
+---
